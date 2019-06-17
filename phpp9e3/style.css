@@ -1,0 +1,14 @@
+body{
+  background-image: url("balon.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
+p{
+  font-size: 30px;
+  color: white;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 200px;
+}

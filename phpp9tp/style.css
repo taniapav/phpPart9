@@ -1,0 +1,9 @@
+tr{
+  width: 100%;
+}
+td{
+  padding: 10px;
+  border: 1px solid #CCC;
+  vertical-align: top;
+ 
+}
